@@ -282,7 +282,7 @@ print(m)
 
 方式一：冒泡排序
 
-![冒泡排序](\img\冒泡排序.gif)
+![冒泡排序](img\冒泡排序.gif)
 
 ```python
 def buble_sort(items: list):
@@ -296,7 +296,7 @@ def buble_sort(items: list):
 
 方式2：选择排序
 
-![](\img\选择排序.gif)
+![](img\选择排序.gif)
 
 ```python
 def choose_sort(items: list):
@@ -311,7 +311,7 @@ def choose_sort(items: list):
 
 方式3：插入排序
 
-![](\img\插入排序.gif)
+![](img\插入排序.gif)
 
 ```python
 def insert_sort(items: list):  
@@ -327,7 +327,7 @@ def insert_sort(items: list):
 
 方式4：快速排序
 
-![](\img\快速排序.gif)
+![](img\快速排序.gif)
 
 ```python
 def quick_sort(items: list):
